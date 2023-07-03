@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fthemayankjha
+- 👋 Hi, I’m @themayankjha
 - CEO of the company called flashcodes 
-- 👀 I’m interested in  web-development, app-development, AI tools etc
+- 👀 I’m interested in  web-development, app-development, AI tools among other things 
 - 🌱 I’m currently Computer Science Student at Vellore Institute of Technology 
 -  I’m also a content creator goining by the name:- The Mayank Jha on youtube
                                                     therealmayank  on instagram(personal)
