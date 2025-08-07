@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @themayankjha<br>👀 I’m interested in web-development, app-development, AI tools among other things<br>🌱 I’m currently Computer Science Student at Vellore Institute of Technology<br>
+👋 Hi, I’m @flashcodes-themayankjha<br>👀 I’m interested in web-development, app-development, AI tools among other things<br>🌱 I’m currently Computer Science Student at Vellore Institute of Technology<br>
 
 
 ## 🌐 Socials:
