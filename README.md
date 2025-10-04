@@ -1,6 +1,20 @@
-# 💫 About Me:
-👋 Hi, I’m @flashcodes-themayankjha<br>👀 I’m interested in web-development, app-development, AI tools among other things<br>🌱 I’m currently Computer Science Student at Vellore Institute of Technology<br>
+## 💫 About Me
 
+### 👋 Hi, I’m Mayank Kumar Jha (@flashcodes-themayankjha)
+
+ 💻 Developer | Programmer | Tech Enthusiast
+
+Passionate about web development, app development, and AI tools
+
+Neovim Contributor – building plugins & enhancing the ecosystem
+
+Creator of the Fkvim Distribution with custom plugins like fkthemes.nvim & fknotes.nvim
+
+### Co-founder of Flashcodes – creating innovative tech solutions
+
+🎓 Student: Computer Science @ Vellore Institute of Technology
+
+🌱 Currently Exploring: Open-source contributions, developer tools, and AI-driven projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_ammayankjha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankkumarjha07) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@the.mayank.k.jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayank.flashcodes@gmail.com) 
